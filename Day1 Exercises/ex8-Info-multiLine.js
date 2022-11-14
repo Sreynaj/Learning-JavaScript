@@ -5,4 +5,4 @@ let name = "SREYNAJ"
 let lastname = "KEB"
 let status = "Single"
 let country = "Cambodia"
-let age = 18
+let age = 18 

@@ -2,5 +2,5 @@
 let string = "Jannie"
 let boolean = true
 let undefined = YOU
-let object = null 
+let object = null  
 
