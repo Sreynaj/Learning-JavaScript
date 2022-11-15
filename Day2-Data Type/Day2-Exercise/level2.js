@@ -13,4 +13,22 @@ console.log(parseFloat == 10)
 //#5 
 let py = 'Python'
 let jar = 'Jargon'
-console.log(py.search('on'))
+console.log(py.includes,jar.includes('on'))
+
+//#6
+let Jargon = 'I hope this course is not full of jargon.'
+console.log(Jargon.includes('jargon'))
+
+//#7 
+let random = Math.floor(Math.random()*101)
+console.log(random)
+
+//#8
+let random1 = Math.floor(Math.random()*100) 
+console.log(random1)
+
+//#9
+let random2 = Math.floor(Math.random()*256)
+console.log(random2)
+
+
